@@ -1,0 +1,8 @@
+﻿  ecu_o2.cpp
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(56,15): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(76,32): warning C4244: “return”: 从“float”转换到“short”，可能丢失数据
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(42,8): warning C4101: “calc_result”: 未引用的局部变量
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(93,17): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(94,18): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+C:\Users\yaozhong\source\repos\ecu_o2\ecu_o2\ecu_o2.cpp(83,9): warning C4101: “j”: 未引用的局部变量
+  ecu_o2.vcxproj -> C:\Users\yaozhong\source\repos\ecu_o2\Debug\ecu_o2.exe
